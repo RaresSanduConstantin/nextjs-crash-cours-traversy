@@ -28,7 +28,7 @@ const article = ({ article }) => {
           .goback:hover {
             background: #0070f3;
             transition: ease 1s background;
-            color: #fff;
+            color: #f4f4f4;
             // transition: ease 1s color;
           }
         `}
